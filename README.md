@@ -1,2 +1,2 @@
 # imgui
-cool imgui for cheat devs ; cheats liek csgo
+cool imgui for cheat devs ; cheats like csgo
