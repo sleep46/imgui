@@ -1,7 +1,6 @@
 # imgui_freetype
 
-Build font atlases using FreeType instead of stb_truetype (which is the default font rasterizer in Dear ImGui).
-<br>by @vuhdo, @mikesart, @ocornut.
+Build font atlases using FreeType instead of stb_truetype (which is the default font rasterizer in Dear ImGui)
 
 ### Usage
 
