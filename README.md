@@ -1,2 +1,2 @@
 # imgui
-cool imgui for cheat devs ; cheats like csgo
+cool imgui design, could be used for a preset 
